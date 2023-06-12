@@ -1,0 +1,22 @@
+{
+  "name": "fast-food-feud-lab",
+  "version": "0.0.2",
+  "description": "Folks' Favorite Friendly Fuel Finder For Food Facts",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite dev"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.3.2",
+    "vite": "^4.1.4"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "author": {
+    "name": "Jeff Astor",
+    "email": "jeff@astor.io"
+  }
+}

@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  margin: 20px 0;
+}
+
+#search-form {
+  text-align: center;
+}
+
+.gif-container {
+  height: 40vh;
+  width: 80%;
+  background-color: black;
+  margin: 0 auto;
+}
